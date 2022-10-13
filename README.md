@@ -10,6 +10,7 @@ Insight is a useful tool for you to watch foreign language videos. It can automa
   - [Table of Contents](#table-of-contents)
   - [Install](#install)
   - [Usage](#usage)
+  - [License](#license)
 
 ## Install
 
@@ -103,6 +104,10 @@ python main.py
 ```
 
 Than you can input the path to the video. If you want to merge the subtitles to the video, you can input 'y' when it print 'Do you want to merge the subtitle to the video now?(y/n)'
+
+## License
+
+MIT License
 
 `[1]: The following three guides are from https://huggingface.co/docs/transformers/installation`
 
