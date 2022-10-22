@@ -58,6 +58,12 @@ pip install transformers[tf-cpu]
 pip install transformers[flax]
 ```
 
+SentencePiece:
+
+```bash
+pip install SentencePiece
+```
+
 Now install whisper and its dependencies *[2]* :
 
 First we install ffmepg.
