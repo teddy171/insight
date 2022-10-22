@@ -38,6 +38,7 @@ def generate_subtitle(video_full_path):
     print("Already extract audio.")
 
     transcribe = model.transcribe(audio=audio_path, fp16=False)
+    print('Aready extract text.')
     segments = transcribe['segments']
 
     for segment in segments:
